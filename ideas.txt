@@ -1,0 +1,9 @@
+- 3d
+- 1st person
+- dungeon crawler
+- 100 floor type to clear
+- boss every end floor level
+- proceduraly generated levels
+- dark atmosphere and dark rooms/corridors
+- futuriste
+- rpg or shop based
